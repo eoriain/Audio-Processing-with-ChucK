@@ -1,9 +1,6 @@
-Name: Eoghan O Riain
-Student Number: 111319036
-Module: CS6117 - Audio Processing
-Assignment: Chuck Assignment
+Audio Processing using ChucK
 
-Although it was not requirement, my goal for this project was to create a coherent videogame-like audio track to represent the user’s progression through the levels. I did this my creating two separate tracks (First_Melody.ck and Second_Melody.ck) to represent to different stages of the game. I combined these two audio files by using the Machine.add() function and eased the transition between the two tracks by including separate audio file.
+My goal for this project was to create a coherent videogame-like audio track to represent the user’s progression through the levels. I did this my creating two separate tracks (First_Melody.ck and Second_Melody.ck) to represent to different stages of the game. I combined these two audio files by using the Machine.add() function and eased the transition between the two tracks by including separate audio file.
 
 This project was broken up into 4 specific categories with requirement associated with each:
 Audio Components
